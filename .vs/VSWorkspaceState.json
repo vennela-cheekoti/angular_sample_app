@@ -2,10 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\app",
-    "\\app\\assets",
     "\\app\\components",
     "\\app\\components\\employee"
   ],
-  "SelectedNode": "\\app\\components\\employee\\employeeservice.js",
   "PreviewInSolutionExplorer": false
 }
